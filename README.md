@@ -3,7 +3,7 @@
 ## I'm an E&E engineering student and developer 
 
 - 🌱 I’m learning whatever i find :D
-- ⚡ Hobby: I love to draw sketches
+- ⚡ Hobby: drawing and learning new things
 
 ### Connect with me:
 [![website](./imgs/281769.png)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTNqwmPmHqmhSfGJmThHMmnGGpnvZpTlQwRxBxMDDPVDNsPbpPcZKNSfhMXVDSBDlRMzvV)
