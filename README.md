@@ -31,7 +31,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![](https://github-readme-stats.vercel.app/api?username=ayazwx&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)
+  ![](https://github-readme-stats.vercel.app/api?username=JspBack&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JspBack&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
   ---
