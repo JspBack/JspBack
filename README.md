@@ -2,7 +2,7 @@
 
 ## I'm an E&E engineering student and developer 
 
-- 🌱 I’m learning whatever i found :D
+- 🌱 I’m learning whatever i find :D
 - ⚡ Hobby: I love to draw sketches
 
 ### Connect with me:
