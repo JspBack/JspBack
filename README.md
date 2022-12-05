@@ -1,8 +1,8 @@
 # Hello, I'm Yusuf
 
-## I'm a student and developer 
+## I'm an E&E engineering student and developer 
 
-- 🌱 I’m currently learning whatever i found :D
+- 🌱 I’m learning whatever i found :D
 - ⚡ Hobby: I love to draw sketches
 
 ### Connect with me:
@@ -11,7 +11,7 @@
 [![website](./imgs/instagram-light.svg)](https://instagram.com/Ysf_back#gh-light-mode-only)
 [![website](./imgs/instagram-dark.svg)](https://instagram.com/Ysf_back#gh-dark-mode-only)
 
-### Languages and Tools:
+### 💻Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -32,6 +32,10 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Jspback's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JspBack" />
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JspBack&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+  ---
+  [![](https://visitcount.itsvg.in/api?id=JspBack&label=Profile%20Views&color=6&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 </details>
 
