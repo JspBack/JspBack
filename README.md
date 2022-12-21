@@ -2,7 +2,7 @@
 
 ## I'm an E&E engineering student and Front-end developer 
 
-- 🌱 I’m learning whatever i find :D
+- 🌱 I’m learning whatever i find (I'm a bit everything :D)
 - ⚡ Hobbies: drawing and learning new things
 
 ### Connect with me:
