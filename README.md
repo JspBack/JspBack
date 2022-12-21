@@ -24,7 +24,7 @@
 <img align="left" alt="Terminal" width="26px" src="./imgs/terminal-dark.svg" />
 <img align="left" alt="c#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 <img align="left" alt="arduino" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-<img align="left" alt="firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg">
+<img align="left" alt="firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
 <img align="left" alt="flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 
 <br />
