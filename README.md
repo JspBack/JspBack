@@ -1,6 +1,6 @@
 # Hello, I'm Yusuf
 
-## I'm an E&E engineering student and developer 
+## I'm an E&E engineering student and Front-end developer 
 
 - 🌱 I’m learning whatever i find :D
 - ⚡ Hobbies: drawing and learning new things
