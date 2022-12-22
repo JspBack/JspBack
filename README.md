@@ -4,6 +4,7 @@
 
 - 🌱 I’m learning whatever i find (I'm a bit everything :D)
 - ⚡ Hobbies: drawing and learning new things
+- 🤯🤯I love REACT🤯🤯 
 
 ### Connect with me:
 [![website](./imgs/281769.png)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTNqwmPmHqmhSfGJmThHMmnGGpnvZpTlQwRxBxMDDPVDNsPbpPcZKNSfhMXVDSBDlRMzvV)
