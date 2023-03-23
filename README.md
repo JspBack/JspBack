@@ -12,8 +12,8 @@
 [![website](./imgs/instagram-light.svg)](https://instagram.com/Ysf_back#gh-light-mode-only)
 [![website](./imgs/instagram-dark.svg)](https://instagram.com/Ysf_back#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./imgs/li_light.png)](https://www.linkedin.com/in/yusuf-ahmet-bekci-5a956a263/#gh-dark-mode-only)
-[![website](./imgs/li-dark.png)](https://www.linkedin.com/in/yusuf-ahmet-bekci-5a956a263/#gh-light-mode-only)
+[![website](./imgs/li-light.png)](https://www.linkedin.com/in/yusuf-ahmet-bekci-5a956a263/#gh-dark-mode-only)
+[![website](./imgs/li_dark.png)](https://www.linkedin.com/in/yusuf-ahmet-bekci-5a956a263/#gh-light-mode-only)
 
 ### 💻Languages and Tools:
 
