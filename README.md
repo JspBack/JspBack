@@ -11,6 +11,8 @@
 &nbsp;&nbsp;
 [![website](./imgs/instagram-light.svg)](https://instagram.com/Ysf_back#gh-light-mode-only)
 [![website](./imgs/instagram-dark.svg)](https://instagram.com/Ysf_back#gh-dark-mode-only)
+[![website](./imgs/linkedin_black_logo_icon_147114.png)](https://www.linkedin.com/in/yusuf-ahmet-bekci-5a956a263/#gh-dark-mode-only)
+[![website](./imgs/linkedın_light (2).png)](https://www.linkedin.com/in/yusuf-ahmet-bekci-5a956a263/#gh-dark-mode-only)
 
 ### 💻Languages and Tools:
 
