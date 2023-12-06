@@ -46,6 +46,7 @@
 
   ![](https://github-readme-stats.vercel.app/api?username=JspBack&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JspBack&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayazwx&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 
   ---
   [![](https://visitcount.itsvg.in/api?id=JspBack&label=Profile%20Views&color=6&icon=1&pretty=false)](https://visitcount.itsvg.in)
