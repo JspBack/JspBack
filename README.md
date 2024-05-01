@@ -5,7 +5,8 @@
 
 <p>- 🌱 I’m learning whatever i find (I'm a bit everything :D)</p>
 <p>- ⚡ Hobbies: drawing and learning new things</p>
-<p>- 🤯🤯I love **REACT**🤯🤯</p>
+<p>- 🤯🤯I love REACT🤯🤯</p>
+<p>- 🔍 Currently working on llms & microservices</p>
 
 <h2>🌐 Connect with me:</h2>
 
