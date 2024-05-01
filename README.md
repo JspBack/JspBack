@@ -1,12 +1,14 @@
-# Hello, I'm Yusuf
+<h1 align="center">Hi 👋, I'm Yusuf Bekci</h1>
+<h3 align="center">I'm a Fullstack Web Developer</h3>
 
-## I'm an E&E engineering student and Front-end developer 
+<img src="imgs/BD.gif" alt="gif" width="400"/>
 
-- 🌱 I’m learning whatever i find (I'm a bit everything :D)
-- ⚡ Hobbies: drawing and learning new things
-- 🤯🤯I love REACT🤯🤯 
+<p>- 🌱 I’m learning whatever i find (I'm a bit everything :D)</p>
+<p>- ⚡ Hobbies: drawing and learning new things</p>
+<p>- 🤯🤯I love **REACT**🤯🤯</p>
 
-### Connect with me:
+<h2>🌐 Connect with me:</h2>
+
 [![website](./imgs/281769.png)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTNqwmPmHqmhSfGJmThHMmnGGpnvZpTlQwRxBxMDDPVDNsPbpPcZKNSfhMXVDSBDlRMzvV)
 &nbsp;&nbsp;
 [![website](./imgs/instagram-dark.svg)](https://instagram.com/Ysf_back#gh-dark-mode-only)
@@ -17,24 +19,36 @@
 
 ### 💻Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./imgs/terminal-dark.svg" />
-<img align="left" alt="c#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-<img align="left" alt="c" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-<img align="left" alt="firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-<img align="left" alt="flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-<img align="left" alt="dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-<img align="left" alt="androidstudio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-<img align="left" alt="arduino" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+<p>
+<a href="React.js"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
+<a href="JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
+<a href="TypeScript"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /></a>
+<a href="Redux"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></a>
+<a href="Next"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next" /></a>
+<a href="Threejs"><img src="https://skillicons.dev/icons?i=threejs" alt="Threejs" /></a>
+<a href="TailwindCSS"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
+<a href="Python"><img src="https://skillicons.dev/icons?i=py" alt="Python"/></a>
+<a href="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
+<a href="Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></a>
+<a href="Figma"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
+<a href="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
+<a href="Flutter"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" /></a>
+<a href="C"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
+<a href="Firebase"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase"/></a>
+<a href="CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
+<a href="Html"><img src="https://skillicons.dev/icons?i=html" alt="Html"/></a>
+<a href="Netlify"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify"/></a>
+<a href="Vim"><img src="https://skillicons.dev/icons?i=vim" alt="Vim"/></a>
+<a href="Bash"><img src="https://skillicons.dev/icons?i=bash" alt="Bash"/></a>
+<a href="CMake"><img src="https://skillicons.dev/icons?i=cmake" alt="CMake"/></a>
+<a href="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
+<a href="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+<a href="VsCode"><img src="https://skillicons.dev/icons?i=vscode" alt="VsCode"/></a>
+<a href="Cpp"><img src="https://skillicons.dev/icons?i=cpp" alt="Cpp"/></a>
+<a href="Go"><img src="https://skillicons.dev/icons?i=go" alt="Go"/></a>
+<a href="Dart"><img src="https://skillicons.dev/icons?i=dart" alt="Dart"/></a>
+<a href="Arduino"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino"/></a>
+</p>
 
 <br />
 <br />
@@ -42,15 +56,13 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>⚡ GitHub Stats</summary>
 
-  ![](https://github-readme-stats.vercel.app/api?username=JspBack&theme=algolia&hide_border=true&include_all_commits=true&count_private=false)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JspBack&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jspback&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api?username=jspback&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=JspBack&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jspback&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 
-  ---
-  [![](https://visitcount.itsvg.in/api?id=JspBack&label=Profile%20Views&color=6&icon=1&pretty=false)](https://visitcount.itsvg.in)
+---
+
+[![](https://visitcount.itsvg.in/api?id=JspBack&label=Profile%20Views&color=6&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 </details>
-
-[instagram]: https://instagram.com/Ysf_back
