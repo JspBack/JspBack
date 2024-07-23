@@ -50,6 +50,7 @@
 <a href="Dart"><img src="https://skillicons.dev/icons?i=dart" alt="Dart"/></a>
 <a href="Arduino"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino"/></a>
 <a href="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
+<a href="Pytorch"><img src="https://skillicons.dev/icons?i=pytorch" alt="Pytorch"/></a>
 </p>
 
 <br />
