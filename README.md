@@ -51,6 +51,7 @@
 <a href="Arduino"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino"/></a>
 <a href="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
 <a href="Pytorch"><img src="https://skillicons.dev/icons?i=pytorch" alt="Pytorch"/></a>
+<a href="Java"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
 </p>
 
 <br />
