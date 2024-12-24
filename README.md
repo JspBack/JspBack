@@ -5,7 +5,7 @@
 
 <p>- 🌱 I’m learning whatever i find (I'm a bit everything :D)</p>
 <p>- ⚡ Hobbies: drawing and learning new things</p>
-<p>- 🤯🤯I love REACT🤯🤯</p>
+<p>- 🤯🤯I love GO🤯🤯</p>
 <p>- 🔍 Currently working on llms & microservices</p>
 
 <h2>🌐 Connect with me:</h2>
@@ -63,7 +63,7 @@
   <summary>⚡ GitHub Stats</summary>
 
 ![](https://github-readme-stats.vercel.app/api?username=jspback&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=JspBack&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jspback&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jspback&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
