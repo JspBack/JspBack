@@ -20,7 +20,7 @@
 
 ### 💻 Languages and Tools:
 
-#### Frontend
+#### Frontend Development
 
 <p>
     <a href="React.js"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
@@ -33,9 +33,10 @@
     <a href="Bootstrap"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
     <a href="CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
     <a href="Html"><img src="https://skillicons.dev/icons?i=html" alt="Html"/></a>
+    <a href="Htmx"><img src="https://skillicons.dev/icons?i=htmx" alt="Htmx"/></a>
 </p>
 
-#### Backend
+#### Backend Development
 
 <p>
     <a href="Python"><img src="https://skillicons.dev/icons?i=py" alt="Python"/></a>
@@ -44,7 +45,6 @@
     <a href="Go"><img src="https://skillicons.dev/icons?i=go" alt="Go"/></a>
     <a href="Java"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
     <a href="C"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
-    <a href="Cpp"><img src="https://skillicons.dev/icons?i=cpp" alt="Cpp"/></a>
 </p>
 
 #### Database
@@ -53,13 +53,24 @@
     <a href="Mongo"><img src="https://skillicons.dev/icons?i=mongo" alt="Mongo"/></a>
     <a href="Postgres"><img src="https://skillicons.dev/icons?i=postgres" alt="Postgres"/></a>
     <a href="Redis"><img src="https://skillicons.dev/icons?i=redis" alt="Redis"/></a>
+    <a href="Sqlite"><img src="https://skillicons.dev/icons?i=sqlite" alt="Sqlite"/></a>
 </p>
 
-#### DevOps
+#### DevOps and Cloud
 
 <p>
     <a href="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
     <a href="Kubernetes"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"/></a>
+    <a href="Cloudflare"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare"/></a>
+    <a href="Azure"><img src="https://skillicons.dev/icons?i=azure" alt="Azure"/></a>
+</p>
+
+#### Monitoring
+
+<p>
+    <a href="Prometheus"><img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus"/></a>
+    <a href="Grafana"><img src="https://skillicons.dev/icons?i=grafana" alt="Grafana"/></a>
+    <a href="Sentry"><img src="https://skillicons.dev/icons?i=sentry" alt="Sentry"/></a>
 </p>
 
 #### Tools
