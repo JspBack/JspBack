@@ -45,6 +45,7 @@
     <a href="Go"><img src="https://skillicons.dev/icons?i=go" alt="Go"/></a>
     <a href="Java"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
     <a href="C"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
+    <a href="Zig"><img src="https://skillicons.dev/icons?i=zig" alt="Zig" /></a>
 </p>
 
 #### Database
