@@ -106,8 +106,8 @@
 <details>
   <summary>⚡ GitHub Stats</summary>
 
-![](https://github-readme-stats.vercel.app/api?username=jspback&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=JspBack&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jspback&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JspBack&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jspback&theme=dark)
 
 ---
 
